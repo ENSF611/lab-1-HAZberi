@@ -1,2 +1,3 @@
 # lab-1-HAZberi
-lab-1-HAZberi created by GitHub Classroom
+
+- `ml-lab-1.ipynb` notebook has information on Python packages and conda environments present on my system. 
